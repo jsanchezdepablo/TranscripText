@@ -5,7 +5,9 @@ Degree final work:
 
 # Getting Started
 To run this project it's necessary xampp because is developed with PHP.
-- First introduced this folder inside htdocs.
-- Second run local server xampp and go to localhost web.
+- First introduced this folder inside htdocs folder at xampp folder.
+- Second on the database import file "proyecto_tfg.sql".
+- Third run local server xampp and go to localhost web to start WordPress.
+- Fourth run webpage inside WordPress.
 
 
